@@ -1,6 +1,7 @@
 # JobSync - Resume Evaluation and Job Matching
 
-![JobSync Thumbnail](..\assets\JobSync.png)
+
+![JobSync Thumbnail](../assets/JobSync.png)
 
 JobSync is a web-based application developed using Streamlit to help job seekers evaluate the alignment of their resumes with job descriptions. It offers various functionalities such as matching percentages, resume improvement suggestions, custom queries on resumes, and more. This project utilizes Google's Gemini AI for natural language processing tasks, such as matching resumes with job descriptions, extracting keywords, and suggesting areas for improvement.
 
