@@ -14,7 +14,7 @@ from helper_functions import (
 
 # Streamlit Layout and UI Setup
 st.set_page_config(page_title="JobSync", page_icon="../assets/Icons.ico", layout="wide", initial_sidebar_state="expanded")
-cover_image_path = "../assets/cover.png"
+cover_image_path = "../assets/JobSync_Cover_image.png"
 st.image(cover_image_path)
 st.title("🎯 JobSync")
 st.markdown("### Evaluate your resume's alignment with job descriptions.")
